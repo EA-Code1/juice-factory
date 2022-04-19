@@ -8,6 +8,7 @@ A employee of Juice Factory can log into the website and can view all the orders
 
 
 <img src="jfactoryimg/Ordering-juice.gif" width="550">
+<img src="jfactoryimg/OrdersOrdersDB.gif" width="550">
 
                 
 # About 
