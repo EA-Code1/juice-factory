@@ -1,0 +1,210 @@
+html,
+body {
+  background-color: rgb(245, 191, 97);
+  color: #636b6f;
+  font-family: "Nunito", sans-serif;
+  font-weight: 200;
+  height: 100vh;
+  margin: 0px;
+}
+
+.full-height {
+  height: 100vh;
+}
+
+.flex-center {
+  align-items: center;
+  display: flex; 
+  justify-content: center;
+}
+
+.position-ref {
+  position: relative;
+}
+
+.top-right {
+  position: absolute;
+  right: 10px;
+  top: 18px;
+}
+
+.content {
+  text-align: center;
+  
+}
+
+.links > a {
+  color: #4a4a4a;
+  padding: 0 25px;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0.1rem;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.m-b-md {
+  margin-bottom: 30px;
+}
+
+footer {
+  background: #eee;
+  padding: 20px;
+  text-align: center;
+}
+
+.title {
+  font-size: 50px;
+  text-transform: uppercase;
+  border-bottom: 2px solid;
+  padding: 12px 0;
+  color: #4a4a4a;
+}
+
+.wrapper {
+  max-width: 850px;
+  padding: 100px;
+  margin: 20px auto;
+}
+
+/* create juice form */
+
+.create-juice {
+  background: #f7f7f7;
+  padding: 20px;
+  display: block;
+}
+
+.create-juice label,
+.create-juice select {
+  display: block;
+}
+
+.create-juice label {
+  margin-top: 30px;
+}
+
+.create-juice select {
+  padding: 8px;
+  width: 200px;
+}
+
+.create-juice input[type=checkbox] {
+  margin: 10px;
+}
+
+.create-juice input[type=submit] {
+  background: #219584;
+  padding: 8px 20px;
+  color: #fff;
+  border: 0;
+  margin-top: 20px;
+}
+
+.create-juice fieldset {
+  border: 0;
+  
+}
+
+.create-form {
+  margin-left: 325px;
+}
+
+.create-header {
+  text-align: center;  
+}
+
+/* juice details page */
+
+.juice-details {
+  background: #f7f7f7;
+  padding: 20px;
+}
+
+.juice-details p {
+  margin: 20px 0;
+  font-weight: bold;
+}
+
+.juice-details button {
+  background: #219584;
+  padding: 8px 20px;
+  color: #fff;
+  border: 0;
+  margin-top: 20px;
+}
+
+a.back {
+  display: block;
+  text-align: center;
+  margin-top: 30px;
+  color: #219584;
+  margin-bottom: 20px;
+  font-size: 25px;
+}
+
+.show {
+  font-size: 20px;
+  margin-left: 325px;
+}
+
+.show-header {
+  margin-left: 255px;
+}
+
+.sho-btn {
+  margin-left: 325px;
+}
+
+/* juice index page */
+
+.juice-index h1 {
+  margin-bottom: 40px;
+}
+
+.juice-index .juice-item {
+  margin: 10px 0;
+  padding: 12px;
+  background: #f4f4f4;
+}
+
+.juice-index .juice-item img {
+  width: 60px;
+  margin-left: 220px;
+  margin-right: -20px;
+  display: inline-block;
+}
+
+.juice-index .juice-item h4 {
+  display: inline-block;
+  font-weight: normal;
+  margin-left: 20px;
+}
+
+.juice-index .juice-item h4 a {
+  color: #777;
+  text-decoration: none !important;
+}
+
+a.order-j {
+  font-size: 25px;
+  color: #4a4a4a;
+}
+
+.mssg {
+  font-size: 25px;
+  color: #4a4a4a;
+}
+
+.order-header {
+  margin-left: 225px;
+}
+/* juice home page */
+
+.card-body {
+  font-size: 25px;
+}
+
+.card-header {
+  font-size: 25px;
+}
